@@ -1,0 +1,15 @@
+{
+  "name": "task-1.4p",
+  "version": "1.0.0",
+  "description": "This is the first task of SIT725",
+  "main": "Task1_4p.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mudasir Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
